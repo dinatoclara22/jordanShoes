@@ -4,3 +4,4 @@ Link da Comunidade no Discord: https://discord.gg/wNCWTVuxyz
 ## 🎯 Tecnologia Utilizadas:
 - HTML
 - CSS
+- SASS
